@@ -8,4 +8,4 @@
 
 #define NO_ACTION_MACRO
 #define NO_ACTION_FUNCTION
-#define COMBO_COUNT 32
+#define VIAL_COMBO_ENTRIES 32
